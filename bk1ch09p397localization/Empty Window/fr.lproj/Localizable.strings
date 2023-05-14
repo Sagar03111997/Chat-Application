@@ -1,0 +1,9 @@
+/* Alert title: Say hello */
+"Howdy!" = "Bonjour!";
+
+/* Alert button: accept and dismiss */
+"OK" = "OK";
+
+/* Alert message: Report a tap */
+"You tapped me!" = "Vous m'avez tapé!";
+
